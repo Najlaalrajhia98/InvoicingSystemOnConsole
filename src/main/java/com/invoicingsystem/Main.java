@@ -9,15 +9,16 @@ import java.util.InputMismatchException;
 import java.util.Scanner;
 
 /**
- * @author LAP-7
+ * @author LAP-7 
+ * This main.java is used as starting app 
+     * - Displays the menu/submenus with items.
+     * - AllowS the user to navigate between options by using SwitchCases.
  *
  */
 public class Main {
 
     /**
-     * @param This main.java is used as starting app 
-     * - Displays the menu/submenus with items.
-     * - AllowS the user to navigate between options by using SwitchCases.
+     * @param 
      * @throws IOException 
      */
     public static void main(String[] args) throws IOException {
